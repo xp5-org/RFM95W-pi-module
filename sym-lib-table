@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "my_rfm95w_symbol")(type "KiCad")(uri "${KIPRJMOD}/mypifootprint.pretty/my_rfm95w_symbol.kicad_sym")(options "")(descr ""))
+)

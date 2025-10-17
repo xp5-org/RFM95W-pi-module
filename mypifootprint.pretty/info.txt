@@ -1,0 +1,10 @@
+found the pi footprint on the kicad github
+> Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles.kicad_mod
+here: https://kicad.github.io/footprints/Module.html
+
+RFM95w footprint is a copy + paste of the kicad built in one
+> my_rfm95w_symbol.kicad_sym
+
+pi 3d STEP model from grabcad
+> RASPBERRYPI-ZERO.step
+this one by 'tomnappey': https://grabcad.com/library/raspberry-pi-zero-2
